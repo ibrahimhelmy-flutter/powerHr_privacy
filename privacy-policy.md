@@ -1,11 +1,11 @@
-# Privacy Policy
+#  Epubra Privacy Policy
 
-PowerHr App takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+Epubra App takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 
 ## Collection of Routine Information
 
-This PowerHr track basic information about their PowerHr. This information includes, but is not limited to, IP addresses, PowerHr details, timestamps and referring pages. None of this information can personally identify specific app to this app. The information is tracked for routine administration and maintenance purposes.
+This Epubra track basic information about their Epubra. This information includes, but is not limited to, IP addresses, Epubra details, timestamps and referring pages. None of this information can personally identify specific app to this app. The information is tracked for routine administration and maintenance purposes.
 
 
 ## Cookies
